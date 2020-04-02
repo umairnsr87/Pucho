@@ -1,1 +1,1 @@
-web: gunicorn Pucho.wsgi
+web:gunicorn Pucho.wsgi
