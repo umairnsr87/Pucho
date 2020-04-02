@@ -1,1 +1,1 @@
-web: gunicorn Pucho.wsgi --log-file -
+web: gunicorn Pucho.wsgi
