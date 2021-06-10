@@ -12,7 +12,7 @@ requests==2.23.0
 six==1.14.0
 sqlparse==0.3.0
 stripe==2.44.0
-urllib3==1.25.8
+urllib3==1.26.5
 webencodings==0.5.1
 Werkzeug==1.0.0
 wincertstore==0.2
